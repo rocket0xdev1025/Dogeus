@@ -63,11 +63,11 @@ document
   });
 
 /* =====================================================================
- *  $MINIDOGEUS LIVE TRACKER
+ *  $DOGEUS LIVE TRACKER
  *  When you get the contract address, paste it into TOKEN_ADDRESS below.
  *  Everything else (chart, copy button, live price) activates automatically.
  * ===================================================================== */
-const TOKEN_ADDRESS = ""; // <-- PASTE THE $MINIDOGEUS CONTRACT ADDRESS HERE
+const TOKEN_ADDRESS = ""; // <-- PASTE THE $DOGEUS CONTRACT ADDRESS HERE
 const TOKEN_CHAIN = "ethereum"; // change if you launch on another chain
 const REFRESH_MS = 30000;
 
